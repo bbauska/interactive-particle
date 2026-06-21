@@ -74,7 +74,7 @@ class CreateParticles {
     this.colorChange = new THREE.Color();
     this.buttom = false;
     this.data = {
-      text: 'SILUS\nGaming\nWorld',
+      text: '  SILUS\nGaming\n  World',
       amount: 1500,
       particleSize: 1,
       particleColor: 0xffffff,
